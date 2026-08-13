@@ -22,14 +22,14 @@ Can we used the sepal and petal measurements to distinguish the between the subs
 
 H1 Petal measurements are batter at distinguishing Iris subspecies rather than the sepal measurements. 
 
-We'll look at the mean seperation and distribution overlap. Check the significance and see if machine learning validates/invalidates any findings. 
+ We'll look at the mean seperation and distribution overlap. Check the significance and see if machine learning validates/invalidates any findings. 
 
 H2 Iris species have significantly different average petal lengths. 
 
-We'll look at the averages and performm some statisical tests.
+ We'll look at the averages and performm some statisical tests.
 
 H3 Aflowers measuremnets can be used to predict it's species. 
 
-We'll look into some predcitive modelling
+ We'll look into some predcitive modelling
 
 
