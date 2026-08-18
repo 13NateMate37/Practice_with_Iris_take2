@@ -28,7 +28,7 @@ H2 Iris species have significantly different average petal lengths.
 
  We'll look at the averages and performm some statisical tests.
 
-H3 Aflowers measuremnets can be used to predict it's species. 
+H3 A flowers measuremnets can be used to predict it's species. 
 
  We'll look into some predcitive modelling
 
